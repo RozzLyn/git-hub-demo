@@ -1,0 +1,122 @@
+.carousel-inner {
+  background-color: #e7d4b5;
+  border: 1px solid black;
+  padding: 0px;
+  text-align: center
+}
+header {
+  background-color: brown;
+  font-family: monospace;
+  outline: black solid 2px;
+  margin: 0px;  
+  padding: 0px;
+  color: white;
+  display: flex;
+  flex-wrap: wrap;
+ } 
+
+li h2{
+  text-align: start;
+  margin-left: 0;
+  font-size: 20px;
+}
+
+h4 {
+  font-size: 20px;
+  text-align: center;
+}
+
+h3 {
+  font-size: 30px;
+  font-family: sans-serif;
+  color: white;
+  text-transform: capitalize;
+}
+
+
+h5{
+  font-size: 12px;
+  text-align: center;
+
+}
+
+.cartButton {
+  float: center;
+  padding-left: 830px;
+  font-size: 15px;
+  
+
+}
+
+
+.buttonOrder {
+  border: 1px solid brown;
+  color: white;
+  background-color: brown;
+  text-decoration: none;
+  font-size: 8px;
+  cursor: pointer;
+  border-radius: 5px;
+  padding: 3px;
+  text-transform: capitalize;
+}
+
+
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 20px;
+}
+
+.item1 {
+ 
+  background-color: white;
+  padding: 10px;
+  outline: 1px solid black;
+  padding: 20px;
+  margin: 10px;
+text-align: center;
+}
+.container {
+  justify-content: center;
+ 
+}
+
+img {
+  width: 200px;
+  height:150px;
+  margin: 10px;
+}
+
+nav li {
+  list-style: none;
+  display: inline-block;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+nav li span {
+  padding-left: 5px;
+}
+
+li {
+  padding: 5px;
+  text-decoration: none;
+  text-align: right;
+}
+
+
+.modal-title{
+  color:rgb(10, 8, 6);
+  font-size: 20px;
+}
+
+p{
+  color:black;
+}
+
+.buttonOrder {
+  text-align: right;
+}
